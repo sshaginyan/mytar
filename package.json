@@ -1,22 +1,22 @@
 {
-  "name": "mytar-cli",
+  "name": "mytar",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "mytar-cli": "bin/mytar-cli"
+    "mytar": "bin/mytar"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sshaginyan/mytar-cli.git"
+    "url": "git+https://github.com/sshaginyan/mytar.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sshaginyan/mytar-cli/issues"
+    "url": "https://github.com/sshaginyan/mytar/issues"
   },
-  "homepage": "https://github.com/sshaginyan/mytar-cli#readme"
+  "homepage": "https://github.com/sshaginyan/mytar#readme"
 }
