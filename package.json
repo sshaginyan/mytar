@@ -1,5 +1,5 @@
 {
-  "name": "mytar",
+  "name": "mytar-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sshaginyan/mytar.git"
+    "url": "git+https://github.com/sshaginyan/mytar-cli.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sshaginyan/mytar/issues"
+    "url": "https://github.com/sshaginyan/mytar-cli/issues"
   },
-  "homepage": "https://github.com/sshaginyan/mytar#readme"
+  "homepage": "https://github.com/sshaginyan/mytar-cli#readme"
 }
